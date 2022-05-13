@@ -1,3 +1,5 @@
+package guru.qa;
+
 public class SamBecomesMan {
     public static void main(String[] args) {
 
